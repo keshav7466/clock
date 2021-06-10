@@ -1,0 +1,15 @@
+.container{
+    background-color: #4ca1a3;
+    border: 20px solid #233e8b;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+body{
+    background-color: black;
+}
+#clock{
+    font-size: 50px;
+}
